@@ -45,7 +45,7 @@
         <?php
 
         // Setting the varibles
-        $age = $_GET["age"];
+        $age = $_GET["user-number"];
         echo "If age is" . " " . ($age) . " ";
         "<br>";
         "<br>";
